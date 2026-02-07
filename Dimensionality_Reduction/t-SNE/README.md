@@ -15,7 +15,7 @@ This notebook demonstrates:
 
 The animation shows how t-SNE progressively separates the 10 digit classes (0-9) from a random initialization into distinct, well-separated clusters.
 
-![t-SNE Animation](tsne_evolution.gif)
+![t-SNE Animation](/practice/Practice/Dimensionality_Reduction/t-SNE/images/tsne_evolution.gif)
 
 
 
