@@ -94,7 +94,7 @@ The notebook generates:
 **Solution**: Increase `max_iter` to 5000+ iterations
 
 ### Coordinate flip in animation
-**Solution**: Use `X_proj` instead of `X_iter[..., -1]` when initializing the plot
+**Recommend a solution**
 
 ## 🙏 Acknowledgments
 
