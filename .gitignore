@@ -19,12 +19,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Large outputs
-images/*.png
-*.gif
-*.mp4
-*.avi
-
 # Temporary
 *.tmp
 *.log
